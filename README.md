@@ -9,6 +9,7 @@
   </p>
 </h3>
 
+Hi, I'm a student at 42 Paris. <a href="https://github.com/Mel-louie/42cursus">Here</a>, you can find a repo with projects I've done for school. Don't hesitate to contact me if you have question on 42.
 
 🌱 C and LÖVE2D
 
